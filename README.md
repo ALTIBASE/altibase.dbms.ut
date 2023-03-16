@@ -1,19 +1,19 @@
 # altibase.dbms.ut
 
-#Project Title
+# Project Title
 One Paragraph of project description goes here
 
-#Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-#Prerequisites
+# Prerequisites
 What things you need to install the software and how to install them
 
-#Versioning
+# Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 
-#License
+# License
 Copyright (C) <2023> <Altibase>
  
 This program is free software: you can redistribute it and/or modify
@@ -29,7 +29,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>
 
-#Acknowledgments
+# Acknowledgments
 
 
 etc
