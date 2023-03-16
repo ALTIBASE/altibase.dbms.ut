@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 # Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+We use our own versioning style. For the versions available, see the tags on this repository.
 
 
 # License
